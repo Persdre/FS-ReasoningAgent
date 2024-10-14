@@ -3,7 +3,7 @@
 
 ## Overview
 <p align='center'>
-  <img width='100%' src='overview_framework.jpg' />
+  <img width='100%' src='overview_framework.png' />
 </p>
 
 ## Requirements
