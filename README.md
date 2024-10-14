@@ -24,11 +24,11 @@ We list main requirements of this repository below.
 ## Running FS-ReasoningAgent
 To run the FS-ReasoningAgent, you need to input your OpenAI API key and in the ```utils.py``` file. And then run the following command:
   ``` 
-  ./run_agent.sh
+  bash run_agent.sh
   ```
 
 ## Example Output
-We provide an example output of ETH in a bull market condition using o1-mini after running the run_agent.sh file.
+We provide an example output of ETH in a bull market condition using o1-mini after running the ```run_agent.sh``` file.
 
   ```
   Namespace(dataset='eth', model='o1-mini', to_print=1, starting_date='2024-01-24', ending_date='2024-03-13', price_window=7, reflection_window=3, seed=6216, use_memory=False, use_tech=1, use_txnstat=1, use_news=1, use_reflection=1, resume_dir='', start_trial_num=0, num_trials=1, num_envs=1, run_name='eth_run', is_resume=False)
