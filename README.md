@@ -6,21 +6,6 @@ While many studies prove more advanced LLMs perform better on tasks such as math
   <img width='100%' src='overall_framework.png' />
 </p>
 
-## Requirements
-We list main requirements of this repository below. 
-
-- openai==1.30.5
-- torch==2.3.0
-- torch-cluster==1.6.1+pt20cu117
-- torch-geometric==2.3.0
-- torch-scatter==2.1.1+pt20cu117
-- torch-sparse==0.6.17+pt20cu117
-- torch-spline-conv==1.2.2+pt20cu117
-- torchaudio==2.0.1+cu117
-- torchmetrics==0.11.4
-- torchvision==0.15.1+cu117
-- transformers==4.30.2
-
 ## Running FS-ReasoningAgent
 To run the FS-ReasoningAgent, you need to input your OpenAI API key and in the ```utils.py``` file. And then run the following command:
   ``` 
