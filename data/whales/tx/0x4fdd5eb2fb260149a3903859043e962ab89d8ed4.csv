@@ -1,2 +1,0 @@
-blockNumber,timeStamp,hash,nonce,blockHash,transactionIndex,from,to,value,gas,gasPrice,isError,txreceipt_status,input,contractAddress,cumulativeGasUsed,gasUsed,confirmations,methodId,functionName
-16754366,1677924239,0xa685167503956b4f3c2a7b2b40d5f79541d36d1f9a7d0f9b581386faf81ecf68,10,0x37fa1f0dd0b28355f9525ba42c702ee7a6c74ae7b25d403f05b0814caf6a212b,58,0xdaf44347b1fb21e7af71c2df7886550f650645fb,0x4fdd5eb2fb260149a3903859043e962ab89d8ed4,132500000000000,21000,18694844966,0,1,0x,,5698392,21000,3379331,0x,
