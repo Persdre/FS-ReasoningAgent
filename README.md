@@ -3,7 +3,7 @@ While many studies prove more advanced LLMs perform better on tasks such as math
 
 ## Overview
 <p align='center'>
-  <img width='100%' src='overall_framework.png' />
+  <img width='100%' src='overall_framework.jpg' />
 </p>
 
 ## Running FS-ReasoningAgent
